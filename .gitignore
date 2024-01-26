@@ -1,0 +1,11 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/Task4/Task4/obj/Debug
+/.vs
+/Task4/.vs/Task4/FileContentIndex
+*.suo
+/Task4/Task4/bin/Debug
+/Task4/Task4/Properties/AssemblyInfo.cs
+/Task4/Task4/App.config
