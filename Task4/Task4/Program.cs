@@ -36,10 +36,10 @@ namespace Task4
                 //var fs = new FileStream(path2, FileMode.Open);
                 //using (StreamWriter sw = new StreamWriter(fs))
                 //{
-                //    sw.WriteLine(path2, "\\" + studentProp.Name + ".txt");
+                //    sw.WriteLine(path2, "\\" + studentProp.Group + ".txt");
                 //}
 
-                File.CreateText(path2 + "\\" + studentProp.Name + ".txt");
+                File.CreateText(path2 + "\\" + studentProp.Group + ".txt");
 
             }
             WriteValues(students, path2);
